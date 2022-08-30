@@ -15,7 +15,7 @@ Optimus Prime is a number generator and prime number counting test.
 </p>
 
 ## Goal
-- Create a list that generates an **infinite** a number to display in each row.
+- Create a list that generates **infinite** numbers and displays the a generated number in each row.
 - Verify whether each number generated is prime.
 - Keep a second number in each row which holds the number of prime numbers identified.
 - At this time you can either use XML or Compose to complete the task although, compose is preferred.
