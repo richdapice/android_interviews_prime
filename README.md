@@ -20,7 +20,7 @@ Optimus Prime is a number generator and prime number counting test.
 - Keep a second number in each row which holds the number of prime numbers identified.
 - At this time you can either use XML or Compose to complete the task although, compose is preferred.
 - Using documentation is encouraged.
-- Asking for help or discussing solutions is expected
+- Asking for help or discussing solutions is expected.
 
 
 ## Resources
